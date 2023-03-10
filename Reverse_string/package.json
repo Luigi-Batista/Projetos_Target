@@ -1,0 +1,12 @@
+{
+  "name": "reverse_string",
+  "version": "1.0.0",
+  "description": "Escreva um programa que inverta os caracteres de um string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Luigi Batista",
+  "license": "ISC"
+}
